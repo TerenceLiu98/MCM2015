@@ -36,3 +36,34 @@
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: 8bb65c22-31bc-4ebb-9d8b-55373b92ab75
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Volumes/Storage/MATH4080/Searching_Airplane_2
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=34bdaf8e1f0698aa4429ae8d77f3190c121d5400595ec01f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=34bdaf8e1f0698aa4429ae8d77f3190c121d5400595ec01f&token=34bdaf8e1f0698aa4429ae8d77f3190c121d5400595ec01f
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Searching the lost plane MH370 by bayesian method.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 44ed0d7a-eece-4d61-914c-243bba1aaa1c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44ed0d7a-eece-4d61-914c-243bba1aaa1c
+[NotebookApp | INFO] Saving file at /Searching the lost plane MH370 by bayesian method.ipynb
+[NotebookApp | WARNING] Notebook Searching the lost plane MH370 by bayesian method.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Searching the lost plane MH370 by bayesian method.ipynb
+[NotebookApp | WARNING] Notebook Searching the lost plane MH370 by bayesian method.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Searching the lost plane MH370 by bayesian method.ipynb is not trusted
+[NotebookApp | WARNING] Trusting notebook /Searching the lost plane MH370 by bayesian method.ipynb
+[NotebookApp | INFO] Starting buffering for 44ed0d7a-eece-4d61-914c-243bba1aaa1c:c2c03825f46d450b9ec12ce64ca16430
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44ed0d7a-eece-4d61-914c-243bba1aaa1c
+[NotebookApp | INFO] Saving file at /Searching the lost plane MH370 by bayesian method.ipynb
+[NotebookApp | INFO] Saving file at /Searching the lost plane MH370 by bayesian method.ipynb
+[NotebookApp | INFO] Starting buffering for 44ed0d7a-eece-4d61-914c-243bba1aaa1c:9c8cb1c952b5455a8a85908bf9451766
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 44ed0d7a-eece-4d61-914c-243bba1aaa1c
